@@ -405,3 +405,7 @@ obj/
 # Ignore bin and obj folders
 **/bin/
 **/obj/
+
+
+# macOS-specific
+*.DS_Store
